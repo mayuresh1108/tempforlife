@@ -1,0 +1,184 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+
+.Upperbar{
+    background-image: linear-gradient(to right, #0d1f17,#1b4332,#40916c, #52b788);
+}
+.topNavbar{
+    margin-right: 50px;
+}
+.topnav-item{
+    color: white;
+}
+.topNav-icon{
+    padding: 0 10px;
+}
+.NavItem{
+    margin: auto;
+    color: black;
+}
+.brandLogo{
+    padding-right: 5%;
+}
+.button{
+    background-color:  #52b788;
+    color: white;
+    border: none;
+    height: 50px;
+    margin: auto;
+    padding: 0 25px;
+}
+.btnn{
+    width: 90%;
+}
+.Main{
+    background-image:linear-gradient(to right, #0d1f179d,#1b4332a6,#40916db6, #52b788b6), url(bike1.jpg);
+}
+.Container{
+    padding: 20% 0;
+}
+h1,h5{
+    color: white;
+    text-align: center;
+}
+form{
+    background-color: rgba(0, 0, 0, 0.65);
+}
+.FEATURES{
+    margin: auto;
+    padding: 100px;
+}
+.Feature-h1{
+    color: black;
+    font-size: 2rem;
+}
+.black-line{
+    width: 25%;
+    border: black 0.7px solid;
+}
+.grey-line{
+    width: 15%;
+    border: gray 0.5px solid;
+}
+.Feature-h5{
+    color: gray;
+    font-size: 0.9rem;
+}
+.Selling{}
+.Sell{
+    padding: 50px;
+    background-color: rgb(243, 242, 242);
+    padding-left: 150px;
+}
+.Sell1{
+    padding: 50px;
+    background-color: rgb(224, 221, 221);
+    padding-left: 150px;
+}
+.sellH1{
+    color: black;
+    font-style: italic;
+    font-size: 1.5rem;
+}
+.question{
+    color: #3ed89d;
+    font-size: 2.2rem;
+}
+.sellP{
+    color: gray;
+    font-size: 1rem;
+    width: 50%;
+}
+.ViewBike{
+    position: absolute;
+    left: 200px;
+    width: 80%;
+    padding: 10px;
+   border:burlywood; 
+   background-color: cornsilk;
+}
+.btn-olour{
+    color: #ffffff;
+    background-color: #00BF8F;
+    border-color: #00BF8F;
+}
+
+.btn-blocked{
+border-radius: 2px;
+background-color: forestgreen;
+opacity: 0.5;
+
+} 
+.btn{
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 10px 15px;
+    border-radius: 0;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+}
+
+.price{
+    position: absolute;
+    right: 30px;
+    bottom: 10px;
+}
+.acc{
+    color: green;
+}
+.Blogpost{
+    margin: auto;
+    padding: 100px;
+}
+.blog-h1{
+    color: black;
+    font-size: 2rem;
+}
+.black-line{
+    width: 25%;
+    border: black 0.7px solid;
+}
+.grey-line{
+    width: 15%;
+    border: gray 0.5px solid;
+}
+.blog-h5{
+    color: gray;
+    font-size: 0.9rem;
+}
+
+.heading-panel, .heading-panel-2 {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+.heading-panel h2::before {
+    background-color: #242424;
+    bottom: 6px;
+    content: "";
+    height: 1px;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    width: 99px;
+}
+
+
+.col-xs-12, .col-sm-12, .col-md-12{
+position: relative;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;
+}
+.heading-text {
+    display: inline-block;
+    line-height: 26px;
+    width: 55%;
+    margin-top: 20px;
+    position: relative;
+    z-index: 9;
+}
